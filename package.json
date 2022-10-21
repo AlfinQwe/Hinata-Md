@@ -1,6 +1,6 @@
 {
-  "name": "hinata-md",
-  "version": "0.0.5",
+  "name": "Xqwerty",
+  "version": "0.0.9",
   "description": "Simple whatsapp bot with multi device.",
   "main": "main.js",
   "directories": {
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "riy04",
+  "author": "Mukhammad Alfin Hidayatulloh",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:riy04/baileys",
